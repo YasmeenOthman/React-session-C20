@@ -1,0 +1,16 @@
+.card-title {
+  color: red;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid black; */
+  width: 300px;
+  border-radius: 30px;
+  background-color: rgba(100, 100, 100, 0.6);
+}
+.card-image {
+  width: 100%;
+}
